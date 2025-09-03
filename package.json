@@ -1,0 +1,25 @@
+{
+  "name": "testing-practice-js-jest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fromscode/testing-practice-js-jest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fromscode/testing-practice-js-jest/issues"
+  },
+  "homepage": "https://github.com/fromscode/testing-practice-js-jest#readme",
+  "description": "",
+  "devDependencies": {
+    "@babel/core": "^7.28.3",
+    "@babel/preset-env": "^7.28.3",
+    "babel-jest": "^30.1.2",
+    "jest": "^30.1.3"
+  }
+}
